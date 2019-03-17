@@ -112,5 +112,6 @@ venv.bak/
 .vscode
 
 # data
-data
+*.hcl
+*.jpg
 *.doc
